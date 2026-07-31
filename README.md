@@ -246,19 +246,11 @@ requests
 
 # 📷 Screenshots
 
-Add screenshots here
+![Home Page](documents/home.png)
 
-```
-screenshots/
+![Home Page](documents/2.png)
 
-home.png
-
-upload.png
-
-chat.png
-
-summary.png
-```
+![Home Page](documents/3.png)
 
 ---
 
