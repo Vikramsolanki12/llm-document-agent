@@ -37,3 +37,4 @@ transformers>=4.55.0
 torch>=2.8.0
 
 torchvision>=0.22.0
+groq>=0.31.0
